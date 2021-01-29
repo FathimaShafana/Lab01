@@ -11,11 +11,22 @@ Key-points to focus are as comments withing the code.
 
 Sample outputs of RESTful calls:
 # To get all Users (GET)
-
+(https://github.com/FathimaShafana/Lab01/blob/main/Screenshots/getAllUsers.PNG?raw=true)
 
 # To get all users as JSON/XML (GET)
+(https://github.com/FathimaShafana/Lab01/blob/main/Screenshots/getAllJSON.PNG?raw=true)
+
 # To get a single user by ID (GET)
+(https://github.com/FathimaShafana/Lab01/blob/main/Screenshots/GetUserbyID.PNG?raw=true)
+
 # To get a single user by JSON/XML (GET)
+(https://github.com/FathimaShafana/Lab01/blob/main/Screenshots/getUserByIDJSON.PNG?raw=true)
+
 # To create a new User (POST)
+(https://github.com/FathimaShafana/Lab01/blob/main/Screenshots/PostInfo.PNG?raw=true)
+
 # To create/update one user (PUT)
+(https://github.com/FathimaShafana/Lab01/blob/main/Screenshots/putUser.PNG?raw=true)
+
 # To delete one user (DELETE)
+(https://github.com/FathimaShafana/Lab01/blob/main/Screenshots/DeleteUser.PNG?raw=true)
