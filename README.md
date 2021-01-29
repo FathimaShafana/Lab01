@@ -29,4 +29,4 @@ Sample outputs of RESTful calls:
 (https://github.com/FathimaShafana/Lab01/blob/main/Screenshots/putUser.PNG?raw=true)
 
 # To delete one user (DELETE)
-(https://github.com/FathimaShafana/Lab01/blob/main/Screenshots/DeleteUser.PNG?raw=true)
+!(https://github.com/FathimaShafana/Lab01/blob/main/Screenshots/DeleteUser.PNG?raw=true)
